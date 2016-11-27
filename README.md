@@ -1,0 +1,3 @@
+# MQTTDemo
+分别基于MQTTKit和MQTTClient框架的两个Demo
+个人观点:MQTTClient更适合IM
